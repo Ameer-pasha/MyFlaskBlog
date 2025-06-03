@@ -29,7 +29,7 @@ A fully functional blogging web application built using Flask. This app includes
 ---
 
 ## 📁 Project Structure
-
+"""
 │
 ├── static/ # Static files like CSS, JavaScript, images
 ├── templates/ # HTML template files for Flask
@@ -38,7 +38,7 @@ A fully functional blogging web application built using Flask. This app includes
 ├── requirements.txt # Project dependencies
 ├── Procfile # For deployment configurations (e.g., Heroku)
 └── .gitignore # Git ignore rules
-
+"""
 
 ---
 

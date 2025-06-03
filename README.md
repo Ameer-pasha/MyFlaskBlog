@@ -28,19 +28,20 @@ A fully functional blogging web application built using Flask. This app includes
 
 ---
 
-## 📁 Project Structure
-"""
-│
-├── static/ # Static files like CSS, JavaScript, images
-├── templates/ # HTML template files for Flask
-├── forms.py # WTForms for handling forms
-├── main.py # Main Flask application file
-├── requirements.txt # Project dependencies
-├── Procfile # For deployment configurations (e.g., Heroku)
-└── .gitignore # Git ignore rules
-"""
+## Project Structure
 
----
+```
+your-project-folder/
+│
+├── static/              # Static files like CSS, JavaScript, images
+├── templates/           # HTML template files for Flask
+├── forms.py             # WTForms for handling forms
+├── main.py              # Main Flask application file
+├── requirements.txt     # Project dependencies
+├── Procfile             # Deployment configuration (e.g., Heroku)
+└── .gitignore           # Git ignore rules
+```
+
 
 ## Installation
 
